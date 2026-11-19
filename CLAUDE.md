@@ -6,7 +6,7 @@ Read this first.
 - New to coding and wants to learn. Explain in plain words and give time estimates.
 - Be concise. Show only the lines you changed.
 - Plan work in phases and get the plan approved before building.
-- **Never push, merge or publish without explicit OK.** Use a branch and a pull request. This repo is public.
+- **Push, merge or publish only after the owner says OK in the chat.** Then do it yourself; the owner doesn't merge by hand. This repo is public.
 - Show a preview (renders or screenshots) for visual changes before building them.
 - Take the least-token path, but never at the expense of quality.
 - Say when a chat is getting long, and offer a handoff summary.
